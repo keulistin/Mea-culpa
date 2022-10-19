@@ -1,0 +1,261 @@
+*{
+    margin: 5px;
+    padding: 20px;
+}
+
+body{
+    background-color: wheat;
+}
+
+#wrap{
+    border: 5px solid rgb(255, 244, 230);
+    border-style: outset;
+}
+
+.nav{
+    margin-left: -5%;
+    margin-top: -5%;
+    text-align: left;
+    word-spacing: 0px;
+    text-transform: uppercase;
+    padding:0%;
+    float: left ;
+    position: fixed;
+}
+
+li{
+    display: inline-block;
+    margin-left: -5%;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 150%;
+    padding: 2%;
+}
+
+
+#mirisi{
+    margin-left: -5%;
+    margin-right: -5%;
+    border: 10px double #D3A625;
+    background-color: #740001;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 2px #362f1e;
+}
+
+#mirisi:hover{
+    color: #D3A625;
+}
+
+p{
+    font-family:'Times New Roman', Times, serif;
+    color: #362f1e;
+}
+
+#hmmmmm{
+    border: 10px double #5D5D5D;
+    background-color: #1A472A;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 2px #362f1e;
+}
+
+#hmmmmm:hover{
+    color: #5D5D5D;
+}
+
+#sepanx{
+    border: 10px double #946B2D;
+    background-color: #0E1A40;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 2px #362f1e;
+}
+
+#sepanx:hover{
+    color: #946B2D;
+}
+
+#dasurv{
+    border: 10px double #000000;
+    background-color: #FFDB00;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 2px #362f1e;
+}
+
+#dasurv:hover{
+    color: #000000;
+}
+
+p{
+    font-family:'Times New Roman', Times, serif;
+    color: #362f1e;
+}
+
+
+
+#letter{
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #FEF3CD;
+    background-image: url(images/harrypotter.jpg);
+    width: 1000px;
+    height: 800px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.message{
+    margin-left: 15%;
+    margin-top: 10%;
+    margin-bottom: 0%;
+    font-size: 130%;
+    padding: 0%;
+}
+
+.message1{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: -2%;
+    margin-top: 2%;
+    padding: 5%;
+    padding-top: 0%;
+    padding-bottom: 1%;
+    text-indent: 10%;
+    text-align: justify;
+    font-size: 130%;
+}
+
+.message2{
+    margin-top: 2%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 0%;
+    padding-left: 5%;
+    padding-right: 5%;
+    text-indent: 10%;
+    text-align: justify;
+    font-size: 130%;
+
+}
+
+.message3{
+    margin-left: 15%;
+    margin-top: 5%;
+    font-size: 130%;
+    padding: 0%;
+}
+
+.message4{
+    margin-left: 15%;
+    padding: 0%;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 130%;
+}
+
+#logo{
+    width: 40%;
+    height: 27%;
+    float: right;
+    position: relative;
+   right: 5%; bottom: 4%;
+}
+
+
+
+
+#serotonin{
+    margin-top: 5%;
+    border: 5px solid rgb(204, 183, 145);
+    border-style: outset;
+}
+
+.serotonin-text{
+    text-align: center;
+    padding: 5%;
+    font-size: 100px;
+    color: #362f1e;
+    font-family: cursive;
+    font-style: oblique;
+    text-shadow: 3px 3px 1px rgb(105, 105, 105);
+
+}
+
+.serotonin-pics{
+    margin-left: 10%;
+    margin-right: 10%;
+    display: inline-block;
+    margin-top: -100px;
+}
+
+
+.happiness{
+    width: 350px;
+    height: 350px;
+    margin-bottom: -55px;
+    padding: 0%;
+}
+
+#mbti{
+    margin-top: 5%;
+    border: 5px solid rgb(204, 183, 145);
+    border-style: outset;
+
+}
+
+#mbti1{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.infj{
+    margin-left: auto;
+    margin-top: auto;
+    padding: 0%;
+    width: 600px;
+    height: 500px;
+}
+
+.infj1{
+    margin-left: auto;
+    margin-top: auto;
+    padding: 0%;
+    width: 800px;
+    height: 500px;
+}
+
+.enfp{
+    font-size: 250%;
+    font-family:'Times New Roman', Times, serif;
+    color: #60bd4d;
+    text-shadow:2px 2px 2px #1f1f1f;
+}
+
+.enfp2{
+    font-size: 150%;
+    font-family:'Times New Roman', Times, serif;
+    color: #60bd4d;
+    text-shadow:2px 2px 2px #1f1f1f;
+    text-decoration: line-through;
+}
+
+#deserve{
+    margin-top: 5%;
+    border: 5px solid rgb(204, 183, 145);
+    border-style: outset;
+}
+.quotes{
+    width: 400px;
+    height: 550px;
+}
+
+.deserve-text{
+    text-align: center;
+    padding: 5%;
+    font-size: 100px;
+    color: #362f1e;
+    font-family: cursive;
+    font-style: oblique;
+    text-shadow: 3px 3px 1px rgb(105, 105, 105);
+}
